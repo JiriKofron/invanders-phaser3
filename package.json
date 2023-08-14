@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@types/howler": "^2.2.7",
     "typescript": "^5.0.2",
     "vite": "^4.4.5"
   },

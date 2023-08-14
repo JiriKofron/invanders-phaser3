@@ -2,7 +2,7 @@ import './style.css'
 import 'phaser'
 import {MainScene} from "./scenes/mainScene.ts";
 
-const config = {
+const config: Phaser.Types.Core.GameConfig = {
     type: Phaser.AUTO,
     width: 1200,
     height: 800,
